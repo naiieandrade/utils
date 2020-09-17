@@ -37,6 +37,7 @@ Gerenciamento de atividades
 - [https://www.glideapps.com/](https://www.glideapps.com/)
 - [https://www.designer.io/pt-br/](https://www.designer.io/pt-br/)
 - [https://principleformac.com/](https://principleformac.com/)
+- [https://zeplin.io/](https://zeplin.io/)
 
 :video_camera:Gravar tela e edição de vídeo
 
@@ -63,3 +64,11 @@ Streaming
 
 - [https://restream.io/](https://restream.io/)
 - [https://streamyard.com/](https://streamyard.com/)
+
+
+Portfólio de Gits
+- [https://sourcerer.io/](https://sourcerer.io/)
+
+Cursos
+
+- [https://suap.enap.gov.br/portaldoaluno/](https://suap.enap.gov.br/portaldoaluno/)
