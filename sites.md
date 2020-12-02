@@ -73,3 +73,30 @@ Portfólio de Gits
 Cursos
 
 - [https://suap.enap.gov.br/portaldoaluno/](https://suap.enap.gov.br/portaldoaluno/)
+
+Slides
+
+- [http://slides.com/](http://slides.com/)
+- [https://www.canva.com/pt_br/](https://www.canva.com/pt_br/)
+- [https://slidesgo.com/](https://slidesgo.com/)
+
+
+Praticar inglês
+
+- [https://lyricstraining.com/](https://lyricstraining.com/)
+
+
+Analytics:
+
+- Youtube:
+   - [https://socialblade.com/](https://socialblade.com/)
+   
+   
+Freelancer:
+- [https://www.fiverr.com/](https://www.fiverr.com/)
+
+
+Streaming:
+
+- Anime:
+  - [https://www.crunchyroll.com/pt-br](https://www.crunchyroll.com/pt-br)
