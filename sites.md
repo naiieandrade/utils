@@ -19,6 +19,7 @@ Imagens
 - [https://undraw.co/](https://undraw.co/)
 - [https://tineye.com/](https://tineye.com/)
 - [https://www.artstation.com/](https://www.artstation.com/)
+- [https://storyset.com/](https://storyset.com/)
 
 Gerenciamento de atividades
 
