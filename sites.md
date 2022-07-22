@@ -111,3 +111,9 @@ Streaming:
 
 - Anime:
   - [https://www.crunchyroll.com/pt-br](https://www.crunchyroll.com/pt-br)
+
+
+Marketing:
+
+- Agendamento de posts:
+  - [https://www.mlabs.com.br/](https://www.mlabs.com.br/)
