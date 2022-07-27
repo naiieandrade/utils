@@ -117,3 +117,9 @@ Marketing:
 
 - Agendamento de posts:
   - [https://www.mlabs.com.br/](https://www.mlabs.com.br/)
+
+
+Utils:
+
+- Email temporário:
+  - [https://temp-mail.org/pt/](https://temp-mail.org/pt/)
